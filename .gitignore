@@ -1,0 +1,8 @@
+wp-admin/
+wp-includes/
+wp-config.php
+.env
+*.sql
+*.zip
+node_modules/
+.DS_Store
